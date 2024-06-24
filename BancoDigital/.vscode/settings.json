@@ -2,6 +2,10 @@
     "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
-    ]
+        "lib/**/*.jar",
+    ],
+    "java.jdt.ls.vmargs": "-javaagent:C:/Users/alebb/Downloads/lombok.jar",
+    "java.debug.settings.onBuildFailureProceed": true,
+    "maven.view": "hierarchical"
 }
+
